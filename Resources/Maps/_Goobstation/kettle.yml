@@ -62348,7 +62348,7 @@ entities:
     - type: Transform
       pos: -31.54896,-29.507278
       parent: 2
-- proto: ChemDispenserMachineCircuitboard
+- proto: EnergyChemDispenserMachineCircuitboard
   entities:
   - uid: 9805
     components:
@@ -79112,7 +79112,7 @@ entities:
       parent: 11943
     - type: Physics
       canCollide: False
-- proto: ChemDispenser
+- proto: EnergyChemDispenser
   entities:
   - uid: 9802
     components:
