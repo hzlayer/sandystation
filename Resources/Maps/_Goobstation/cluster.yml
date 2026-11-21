@@ -27545,7 +27545,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -22.5,-29.5
       parent: 2
-- proto: ChemDispenserMachineCircuitboard
+- proto: EnergyChemDispenserMachineCircuitboard
   entities:
   - uid: 4121
     components:
@@ -34162,7 +34162,7 @@ entities:
       parent: 5189
     - type: Physics
       canCollide: False
-- proto: ChemDispenser
+- proto: EnergyChemDispenser
   entities:
   - uid: 4119
     components:
